@@ -13,4 +13,4 @@ STM32 Lib LM75 LM75A LM75B LM75C
 
 Видео обзор: https://youtu.be/3WGjHHaYwPs
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
